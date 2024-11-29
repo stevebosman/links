@@ -1,5 +1,7 @@
 # Language Documentation
 
+* [C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
+* [Emacs Lisp](https://www.gnu.org/software/emacs/manual/html_node/eintr/)
 * [Fortran](https://fortran-lang.org/)
 * [Go](https://go.dev/doc/)
 * [Groovy](https://groovy-lang.org/documentation.html)
